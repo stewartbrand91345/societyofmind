@@ -1,4 +1,4 @@
-#NOTE: This was forked because the original repo has some errors. I hope this will be useful to other readers of Minsky!
+# NOTE: This was forked because the original repo has some errors. I hope this will be useful to other readers of Minsky!
 
 # The Society of Mind (EPUB)
 
